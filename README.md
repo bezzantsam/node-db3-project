@@ -3,7 +3,7 @@
 ## Task 1: Project Setup and Submission
 
 Your assignment page on Canvas should contain instructions for submitting this project. If you are still unsure, reach out to School Staff.
-
+x
 ## Task 2: Project Minimum Viable Product
 
 ### Database
